@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1K5wAmMq1bCuZ44C-cLR4X5DgU5kiNILp/view?usp=shari
    ```
 2. **Adjust Path Names:**
 
-Before running the Jupyter Notebook, please update any file paths or directories in the code to match the structure of your machine. Pay special attention to paths related to data loading, model saving, and any other file operations.
+   Before running the Jupyter Notebook, please update any file paths or directories in the code to match the structure of your machine. Pay special attention to paths related to data       loading, model saving, and any other file operations.
 
 3. **Install dependencies:**
 
