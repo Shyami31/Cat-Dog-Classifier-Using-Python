@@ -21,7 +21,7 @@ The project uses a Convolutional Neural Network (CNN) to classify images as eith
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cat-dog-classifier.git
+   git clone https://github.com/Shyami31/Cat-Dog-Classifier-Using-Python
    cd cat-dog-classifier
    ```
 
