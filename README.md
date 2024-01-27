@@ -16,6 +16,14 @@ The project uses a Convolutional Neural Network (CNN) to classify images as eith
 - Matplotlib
 - Scipy
 
+## Dataset
+
+Download and unzip the dataset from 
+
+```bash
+https://drive.google.com/file/d/1K5wAmMq1bCuZ44C-cLR4X5DgU5kiNILp/view?usp=sharing
+```
+
 ## Installation
 
 1. **Clone the repository:**
@@ -24,8 +32,11 @@ The project uses a Convolutional Neural Network (CNN) to classify images as eith
    git clone https://github.com/Shyami31/Cat-Dog-Classifier-Using-Python
    cd Cat-Dog-Classifier-Using-Python
    ```
+2. **Adjust Path Names:**
 
-2. **Install dependencies:**
+Before running the Jupyter Notebook, please update any file paths or directories in the code to match the structure of your machine. Pay special attention to paths related to data loading, model saving, and any other file operations.
+
+3. **Install dependencies:**
 
    ```bash
    pip install -r requirements.txt
