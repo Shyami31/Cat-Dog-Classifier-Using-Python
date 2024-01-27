@@ -22,7 +22,7 @@ The project uses a Convolutional Neural Network (CNN) to classify images as eith
 
    ```bash
    git clone https://github.com/Shyami31/Cat-Dog-Classifier-Using-Python
-   cd cat-dog-classifier
+   cd Cat-Dog-Classifier-Using-Python
    ```
 
 2. **Install dependencies:**
@@ -38,8 +38,14 @@ The project uses a Convolutional Neural Network (CNN) to classify images as eith
    ```bash
    jupyter notebook Cat_Dog_Classifier.ipynb
    ```
+   If this doesn't work, try opening jupyter notebook using
 
-2. **Follow the instructions in the notebook to train the model and make predictions.**
+   ```bash
+   python -m notebook
+   ```
+   and upload the CatDogClassifier.ipynb   
+
+3. **Follow the instructions in the notebook to train the model and make predictions.**
 
 ## Notebook Structure
 
